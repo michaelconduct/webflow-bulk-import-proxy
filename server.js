@@ -102,3 +102,5 @@ app.listen(PORT, () => {
 // 1. npm install
 // 2. node server.js
 // 3. Backend runs on http://localhost:5000
+
+module.exports = app;
